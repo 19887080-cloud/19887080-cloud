@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Azucena Vanesa Díaz
 
-<!--
-**19887080-cloud/19887080-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrolladora en formación | Apasionada por la tecnología**
 
-Here are some ideas to get you started:
+¡Bienvenido/a a mi perfil de GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy una persona apasionada por la tecnología, la programación y el aprendizaje continuo. Me gusta explorar nuevas herramientas, desarrollar proyectos y adquirir conocimientos que me permitan crecer en el mundo del desarrollo de software.
+
+### 🚀 Sobre mí
+- 🌱 Siempre estoy aprendiendo cosas nuevas sobre programación y tecnología.
+- 💡 Me gusta resolver problemas y desarrollar soluciones creativas.
+- 💻 Disfruto trabajar en proyectos y mejorar mis habilidades.
+- 🎯 Mi objetivo es crecer profesionalmente en el mundo de la tecnología.
+- 🤝 Estoy abierta a aprender, colaborar y compartir conocimientos.
+
+### 🛠️ Tecnologías e intereses
+- Desarrollo de software
+- Programación
+- Desarrollo web
+- Git y GitHub
+- Nuevas tecnologías
+
+### 📫 Conectemos
+¡Gracias por visitar mi perfil! No dudes en explorar mis proyectos y acompañarme en este camino de aprendizaje y crecimiento tecnológico.
+
+✨ *Aprendiendo, creando y mejorando cada día.*
